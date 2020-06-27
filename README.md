@@ -23,5 +23,5 @@ This list may get longer as time goes, we suggest you to mention any 3rd party l
 
 
 <p align="center">
-  <img src="readme_images/bloody_sun_readme_ending.png" height=256> 
+  <img src="readme_images/bloody_sun_readme_ending.png" height=196> 
 </p>
