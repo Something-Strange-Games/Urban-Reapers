@@ -19,3 +19,9 @@ We are planning on using open source libraries such as:
 - [libtcod](https://github.com/libtcod/libtcod) - a roguelike development library | Licensed under [BSD-3-Clause License](https://github.com/libtcod/libtcod/blob/develop/LICENSE.txt)
 
 This list may get longer as time goes, we suggest you to mention any 3rd party libraries you use when contributing.
+
+
+
+<p align="center">
+  <img src="readme_images/bloody_sun_enlarged.png" width=256> 
+</p>
