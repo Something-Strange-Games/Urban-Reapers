@@ -1,6 +1,10 @@
 # Urban Reapers
 WIP | Serial Killer Simulator
 
+<p align="center">
+here will be logo
+</p>
+
 Urban Reapers is detailed Serial Killer simulator.
 
 
